@@ -4,9 +4,9 @@ It converts .heic/.heif images to .jpg
 
 ## Description
 
-This is a simple application for personal use.
-It converts images with .heic/.heif extension to .jpg files. 
-The design is made with Custom Tkinter, but here Pillow does the main job.
+This is a simple application that I wrote for personal use. Due to the app's simplicity, I decided to adopt a functional approach.
+The purpose of the application is to convert images with .heic/.heif extension into .jpg files, as indicated by its title.
+The design of the application is created using Custom Tkinter, while Pillow handles the main functionality.
 
 ## Getting Started
 
